@@ -1,0 +1,16 @@
+ol.type li{
+    margin:10px;
+}
+
+ol.type li a{
+    display:inline-block;
+    width:100px;
+}
+.info-portfolio{
+    margin-top:30px;
+    color:#d3d3d3;
+}
+.gap{
+    width:100%;
+    height:100px;
+}

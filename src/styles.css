@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+.leo-icon{
+    position:relative;
+    width: 30px;
+    height:30px;
+    margin-bottom:-7px;
+    display:inline-block;
+    background: url("./assets/img/pngs/lion-icon.png");
+    background-size:cover;
+    border-radius: 15px;
+    -webkit-box-shadow: 1px 1px 5px 0px rgba(255,255,255,1);
+    -moz-box-shadow: 1px 1px 5px 0px rgba(255,255,255,1);
+    box-shadow: 1px 1px 5px 0px rgba(255,255,255,1);
+}
+.navbar-brand{
+    padding:9px;
+}
